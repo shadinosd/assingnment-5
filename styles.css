@@ -1,0 +1,16 @@
+.img{
+    background-image: url('images/banner.png');
+    background-repeat: no-repeat;
+    height: 600px;
+    
+    
+ 
+   
+    
+}
+.img-2{
+    margin: 0 auto;
+    margin-left: 300px ;
+    top: 50px;
+}
+
